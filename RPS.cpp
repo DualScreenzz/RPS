@@ -1,5 +1,3 @@
-//current timestamp 3:12
-// tutorial: https://www.youtube.com/watch?v=F4jzY6YVw4w
 #include <iostream>
 #include <ctime> 
 
@@ -108,4 +106,5 @@ void chooseWinner(char player, char computer){
     }
    
     }
+
 
