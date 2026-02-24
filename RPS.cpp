@@ -1,7 +1,7 @@
 #include <iostream>
 #include <ctime> 
 
-char getUserChoice();
+chor getUserChoice();
 char getComputerChoice();
 void showChoice(char choice);
 void chooseWinner(char player, char computer);
@@ -106,5 +106,6 @@ void chooseWinner(char player, char computer){
     }
    
     }
+
 
 
